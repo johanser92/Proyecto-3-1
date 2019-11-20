@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-CRUD-DiplomadoUASDCodeFirst.Web", "MVC-CRUD-DiplomadoUASDCodeFirst.Web\MVC-CRUD-DiplomadoUASDCodeFirst.Web.csproj", "{2346C8DD-C4FB-4E59-A1E6-B6B6F18D8FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-CRUD-DiplomadoUASDCodeFirst.Model", "MVC-CRUD-DiplomadoUASDCodeFirst.Model\MVC-CRUD-DiplomadoUASDCodeFirst.Model.csproj", "{22BA9F6E-160A-4083-A902-6B009EBDCBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2346C8DD-C4FB-4E59-A1E6-B6B6F18D8FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2346C8DD-C4FB-4E59-A1E6-B6B6F18D8FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2346C8DD-C4FB-4E59-A1E6-B6B6F18D8FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2346C8DD-C4FB-4E59-A1E6-B6B6F18D8FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BA9F6E-160A-4083-A902-6B009EBDCBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BA9F6E-160A-4083-A902-6B009EBDCBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BA9F6E-160A-4083-A902-6B009EBDCBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BA9F6E-160A-4083-A902-6B009EBDCBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {445136AF-6564-4DA5-B307-D163149BB3F6}
+	EndGlobalSection
+EndGlobal
